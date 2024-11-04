@@ -9,6 +9,9 @@
 [Uploading 
 etchASketch.pde…]()
 
+
 ## Term 2
 # Calculator
-[Uploading Calculator_App.pde…]()
+[Uploading Calculator_App.pde…]
+![Screenshot 2024-11-04 at 10 16 50 AM](https://github.com/user-attachments/assets/2b92cd70-df0d-4de3-8062-389a472a4a3b)
+
