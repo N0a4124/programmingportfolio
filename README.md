@@ -8,6 +8,7 @@
 # EtchAScetch
 [Uploading 
 etchASketch.pde…]()
+My EtchAScetch works and I have co workers who can prove it. The file upload to drive when comuters were rebooted my code got wiped and ereased form the world.
 
 
 ## Term 2
