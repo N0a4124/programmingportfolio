@@ -6,13 +6,11 @@
 
 ## Term 1
 # EtchAScetch
-[Uploading 
-etchASketch.pde…]()
-My EtchAScetch works and I have co workers who can prove it. The file upload to drive when comuters were rebooted my code got wiped and ereased form the world.
 
+![Screenshot 2024-11-06 at 9 21 48 AM](https://github.com/user-attachments/assets/125eea78-4fe7-4a03-95ca-ada3efaeb849)
 
 ## Term 2
 # Calculator
-[Uploading Calculator_App.pde…]
+
 ![Screenshot 2024-11-04 at 10 16 50 AM](https://github.com/user-attachments/assets/2b92cd70-df0d-4de3-8062-389a472a4a3b)
 
