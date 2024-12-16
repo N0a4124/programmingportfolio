@@ -1,4 +1,4 @@
-# Noah El Mansouri's Programming Portfolio 2024-2025
+# Noah El Mansouri's Programming Portfolio 2024-2025     9720656@graniteschools.org
 * Projected graduation 2028
 * Intrest in MTB/soccer
 * I'm like so cool and have lots of friends
